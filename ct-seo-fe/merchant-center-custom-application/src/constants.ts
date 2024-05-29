@@ -5,7 +5,7 @@ export const entryPointUriPath = 'custom-seo';
 
 export const PERMISSIONS = entryPointUriPathToPermissionKeys(entryPointUriPath);
 
-export const apiBaseUrl= "https://ct-custom-seo-be.vercel.app"
+export const apiBaseUrl= "https://ct-seo.onrender.com"
 
 export const titlePattern = /(SEO Title:|Title:)\s*(.+)/;
 export const descriptionPattern = /(SEO Description:|Description:)\s*(.+)/;
